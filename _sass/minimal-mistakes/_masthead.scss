@@ -24,6 +24,9 @@
     -ms-flex-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
+    // nav bar  font-size 및 굵기 조절
+    font-size: $type-size-3;
+    font-weight: bold;
 
     @include breakpoint($x-large) {
       max-width: $max-width;
