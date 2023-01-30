@@ -16,7 +16,7 @@ minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "ko-KR"
-title: "man-ze's coding note"
+title: "AtoZ"
 title_separator: "|" # 문장 분리시 default - 형태
 subtitle: # 부제목
 name: "man-ze"
