@@ -1,7 +1,7 @@
 ---
-title: "cloneCoding"
+title: "Coding"
 layout: categories
-permalink: /cloneCodings/
+permalink: /Codings/
 author_profile: true
 sidebar_main: true
 ---

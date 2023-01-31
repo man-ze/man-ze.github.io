@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "자바스크립트 타자게임 클론코딩 후기"
-category: cloneCoding
-tag: [cloneCoding, javascript, git]
+category: Coding
+tag: [Coding, JS, Git]
 # 테이블 목차
 toc: true
 # author_profile 이 false 이면 게시글에 들어갔을 때 왼쪽 사이드바가 접힘
@@ -151,23 +151,15 @@ function buttonChange(text) {
 }
 ```
 
-
-
->  API 단어장 생성시 필요한 사이트
-
-
+> API 단어장 생성시 필요한 사이트
 
 [랜덤 단어장 호출 사이트](https://random-word-api.herokuapp.com/home) : 주소 뒤에 _word?number=호출하고 싶은 단어숫자_ 를 입력하면 랜덤 인덱스로 단어장이 생성된다.
 
 [axios CDN](https://axios-http.com/kr/docs/intro)
 
-
-
 ## 새로 알게 된 개념
 
-
-
->  setInterval()
+> setInterval()
 
 함수를 주기적으로 실행하게 하는 내장 메서드.
 
@@ -180,21 +172,15 @@ timeInterval = setInterval(countDown, 1000);
 
 ✨대부분의 브라우저에서 alert / confirm / prompt 등의 명령어는 창이 떠있는 중에도
 
- 내부 타이머(setInterval())가 진행이 된다.
-
-
+내부 타이머(setInterval())가 진행이 된다.
 
 > clearInterval()
 
 setInterval() 로 호출한 함수를 중단하게 만든다.
 
-
-
 > return 의 활용도
 
 생각보다 해당 함수를 탈출하기 위한 용도로 return 문을 많이 사용함 (_↔ break 는 반복문을 탈출하기 위한 용도_)
-
-
 
 > InnerHTML vs InnerText
 

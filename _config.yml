@@ -16,10 +16,10 @@ minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "ko-KR"
-title: "AtoZ"
+title: "A to Z"
 title_separator: "|" # 문장 분리시 default - 형태
 subtitle: # 부제목
-name: "man-ze"
+name: "아토즈"
 description: # "man-ze의 블로그 입니다"
 url: "https://man-ze.github.io" # the base hostname & protocol for your site e.g.
 baseurl: # the subpath of your site, e.g. "/blog"
