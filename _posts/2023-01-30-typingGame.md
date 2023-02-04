@@ -1,8 +1,8 @@
 ---
 layout: single
 title: "자바스크립트 타자게임 클론코딩 후기"
-category: Coding
-tag: [Coding, JS, Git]
+category: JS
+tag: [JS, Git]
 # 테이블 목차
 toc: true
 # author_profile 이 false 이면 게시글에 들어갔을 때 왼쪽 사이드바가 접힘

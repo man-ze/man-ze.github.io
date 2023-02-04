@@ -1,23 +1,35 @@
 # main links
 main:
+  - title: "React"
+    url: /reacts/
   - title: "JS"
     url: /javasripts/
+  - title: "Markup"
+    url: /markups/
   - title: "Coding"
     url: /Codings/
   - title: "Git"
     url: /gits/
+  - title: "Project"
+    url: /Projects/
   - title: "Search"
     url: /search/
 
 docs:
   - title: "study"
     children:
+      - title: "React"
+        url: /reacts/
       - title: "JS"
         url: /javasripts/
+      - title: "Markup"
+        url: /markups/
       - title: "Coding"
         url: /Codings/
       - title: "Git"
         url: /gits/
+      - title: "Project"
+        url: /Projects/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
