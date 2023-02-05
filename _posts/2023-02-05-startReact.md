@@ -5,6 +5,7 @@ category: React
 tag: [React]
 # 테이블 목차
 toc: true
+published: true
 # author_profile 이 false 이면 게시글에 들어갔을 때 왼쪽 사이드바가 접힘
 author_profile: true
 published: true
